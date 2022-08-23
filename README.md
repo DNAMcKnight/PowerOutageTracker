@@ -1,7 +1,8 @@
 # PowerOutageTracker
 Join me on my ride figuring out how to use the ESP8266 along with microPython and making a program that tracks power outages in my house. 
 
-## The recent power outages in my country has disrupted my workflow quite a lot this project should help me get a better picture of what time I am able to code for a consistant 4-5 hours. Fingers crossed if we do get 5 straight hours.
+## The recent power outages in my country has disrupted my workflow.
+This project should help me get a better picture of what time I am able to code for a consistant 4-5 hours. Fingers crossed if we do get 5 straight hours.
 
 What data can I get from this project?
 
