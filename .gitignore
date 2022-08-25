@@ -128,4 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 temp.json
-settings.json
+*.json

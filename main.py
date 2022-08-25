@@ -1,6 +1,8 @@
-import network, ntptime, time # type: ignore
-from machine import Pin # type: ignore
-
+try:
+    import network, ntptime, time # type: ignore
+    from machine import Pin # type: ignore
+except:
+    import time
 
 def blinker(amount):
     count = 0
