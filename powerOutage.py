@@ -1,6 +1,3 @@
-from asyncio import DatagramTransport
-
-
 try:
     import time, json, os # type: ignore
     import ntptime
