@@ -107,4 +107,3 @@ def timeSaver():
         blinker(1)
         time.sleep(60)
         
-timeSaver()
