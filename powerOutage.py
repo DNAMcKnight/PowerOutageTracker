@@ -131,8 +131,6 @@ class Mountain:
             blinker(1)
             time.sleep(60)
         
-<<<<<<< HEAD
-=======
     
     def timeSync(self):
         """This function updates the time every hour after starting up"""
@@ -156,4 +154,3 @@ class Mountain:
                     print(f"DATE: {dt.date()}")
             
             return
->>>>>>> 2a30b6ecbf1740e5dd094418a50b5585b1da9aab
