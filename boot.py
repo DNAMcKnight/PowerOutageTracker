@@ -24,5 +24,5 @@ wifi = main.connectWifi(ssid, password)
 while not wifi:
     print(".")
     
-po.timeSaver()
+po.Mountain().timeSaver()
 
