@@ -1,8 +1,10 @@
 # PowerOutageTracker
 Join me on my ride figuring out how to use the ESP8266 along with microPython and making a program that tracks power outages in my house. 
+## Update!
+The power outage issues have been resolved soon after I started collecting data. I planned to resume the project from the start of the year but now after 7 months, the power outages aren't as bad as it was when I started this project. This is why I haven't been maintaining this project, although this was rather promissing if I was able to set it up in multiple parts of of the city. I could create a heatmap of where the most outages are and if there's a pattern to it. This isn't something I want to do right now so we'll seee.
 
-## The recent power outages in my country has disrupted my workflow.
-This project should help me get a better picture of what time I am able to code for a consistant 4-5 hours. Fingers crossed if we do get 5 straight hours.
+## Last year power outages in my country had disrupted my workflow.
+This project was created to help me get a better picture of what time I am able to code for a consistant 4-5 hours. Fingers crossed if we do get 5 straight hours.
 
 What data can I get from this project?
 
